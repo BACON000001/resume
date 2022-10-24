@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@400;700&display=swap');/*font-family: 'Charmonman', cursive;*/
+
+hr {
+    border-width: .5rem;
+    border-style: dotted none none none;
+    border-color: brown;
+}
+.baconlala{
+    display: flex;
+}
+.baconlala>div{
+    margin: 0 2rem;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+} 
+
+main{
+    display: flex;
+}
+
+.lele{
+    margin-right: 100px;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+
+.lala{
+    text-align: center;
+    border: 2px solid rebeccapurple;
+    border-radius: 20px;
+
+}
+*{
+    font-family: 'Charmonman', cursive;
+    font-weight: 700;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.WeeklyReport td{
+    padding-right: 80px;
+    background-color: burlywood;
+}
